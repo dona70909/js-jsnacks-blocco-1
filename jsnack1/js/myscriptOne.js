@@ -4,8 +4,6 @@ const numberTwo = parseInt(prompt("inserisci un numero"));
 console.log(numberOne);
 console.log(numberTwo);
 
-
-
 if(isNaN(numberOne) || isNaN(numberTwo)){
     console.log("Valori non validi");
 }
@@ -16,3 +14,5 @@ else if(numberOne > numberTwo){
 } else{
     console.log("Pari");
 }
+
+/* # */
