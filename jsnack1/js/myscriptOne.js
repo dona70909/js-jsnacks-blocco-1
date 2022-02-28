@@ -14,5 +14,3 @@ else if(numberOne > numberTwo){
 } else{
     console.log("Pari");
 }
-
-/* # */
