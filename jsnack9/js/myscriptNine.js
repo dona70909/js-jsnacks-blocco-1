@@ -2,8 +2,7 @@ const arrayNumbers = [];
 const arrayOdd = [];
 const arrayEven = [];
 
-/* const lengthOdd =  arrayOdd.legth = 200;
-const legthEven = arrayEven.legth = 200; */
+
 
 let sum = 0;
 while(sum < 200){
